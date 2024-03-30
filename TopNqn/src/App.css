@@ -1,0 +1,20 @@
+.navBar{
+  align-items: center;
+  height: 20%;
+  padding: 0 10%;
+  color: white;
+  display: flex;
+  background-color: rgb(78, 129, 229);
+}
+.navBar>p{
+  font-size: 20px;
+  margin-right: auto;
+}
+.listitems{
+  display: flex;
+}
+.listitems>li{
+  text-decoration: underline;
+  padding-left: 10px;
+  list-style: none;
+}
